@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Nash
-- 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning Python, Build Automation & CI/CD with Jenkins , Package Managers, Repository Managers, Docker, Docker Containers, Kubernetes, Terraform, Prometheus, Grafana, AWS-EKS
-- 💞️ I’m looking to collaborate on Projects
+- 👀 I’m a DevOps Guy
+- 🌱 I’m doing DevOps bootcamp. Have hands-on experiance on Python, Build Automation & CI/CD with Jenkins , Package Managers, Repository Managers, Docker, Docker Containers, Kubernetes, Terraform, Prometheus, Grafana, AWS-EKS.
+- 💞️ I would like to collaborate with your team on Projects to achieve team targets and company goals.
 - 📫 Reach me on 0451589295 or nash.surapureddy@gmail.com
 
 <!---
